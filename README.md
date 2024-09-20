@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Web Development, DSA**
 - 📫 How to reach me **Shubh.123387@stu.upes.ac.in**
-- 📄 Know about my experiences [Participated in Global Game Jam 2024](Participated in Global Game Jam 2024)
+- 📄 Know about my experiences:-  Participated in Global Game Jam 2024
 - ⚡ Fun fact: **I love exploring new tech trends while sipping on a good cup of tea! ☕**
 
 <h3 align="left">Connect with me:</h3>
