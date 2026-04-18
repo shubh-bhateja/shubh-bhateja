@@ -1,32 +1,79 @@
-![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)
-<h1 align="center">🚀Hi , I'm Shubh Bhateja 🚀</h1>
-<h3 align="center">A passionate learner from India</h3>
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966"/>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=student-shubh&label=Profile%20views&color=0e75b6&style=flat" alt="student-shubh" /> </p>
+# 👋 Hey, I'm Shubh Bhateja
 
-- 🌱 I’m currently learning **Web Development, DSA**
-- 📫 How to reach me **Shubh.123387@stu.upes.ac.in**
-- 📄 Know about my experiences:-  Participated in Global Game Jam 2024
-- ⚡ Fun fact: **I love exploring new tech trends while sipping on a good cup of tea! ☕**
+### `{ AI/ML student · DSA grinder · tea enjoyer ☕ }`
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/shubh-bhateja" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shubh bhateja" height="30" width="40" /></a>
-<a href="https://instagram.com/shubh._.bhateja" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shubh._.bhateja" height="30" width="40" /></a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-shubh--bhateja-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shubh-bhateja)
+[![LeetCode](https://img.shields.io/badge/LeetCode-hola--from--shubh-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/hola-from-shubh/)
+[![Instagram](https://img.shields.io/badge/Instagram-shubh._.bhateja-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/shubh._.bhateja)
+[![Email](https://img.shields.io/badge/Email-Shubh.123387@stu.upes.ac.in-34A853?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Shubh.123387@stu.upes.ac.in)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-<a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> 
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
-<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> 
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-<a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> 
-</p>
+![Profile Views](https://komarev.com/ghpvc/?username=student-shubh&style=for-the-badge&color=58a6ff&label=PROFILE+VIEWS)
+
+</div>
+
+---
+
+## 🧠 About Me
+
+```python
+shubh = {
+    "learning":   ["Web Development", "DSA", "ML Pipelines"],
+    "building":   ["PyTorch models", "CNN architectures", "game jams"],
+    "highlight":  "Global Game Jam 2024 participant",
+    "fuel":       "chai ☕ + curiosity",
+}
+```
+
+- 🌱 Currently deep in **Web Dev, DSA & Machine Learning**
+- 🔬 Recently built a full **PyTorch pipeline** for neonatal jaundice classification (SAM + CLAHE + Grad-CAM)
+- ⚡ Fun fact: I debug code and explore tech trends with a cup of tea in hand
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+
+**ML / Data**
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+
+**Web & Tools**
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-FFFFFF?style=flat-square&logo=unity&logoColor=black)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![Shubh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=student-shubh&show_icons=true&theme=github_dark&hide_border=true&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=student-shubh&layout=compact&theme=github_dark&hide_border=true)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=student-shubh&theme=github-dark-blue&hide_border=true)](https://git.io/streak-stats)
+
+</div>
+
+---
+
+<div align="center">
+
+*"First, solve the problem. Then, write the code."*
+
+</div>
